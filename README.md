@@ -1,4 +1,16 @@
-![Analista Programador](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
+<h1 align="center">
+Hola, Soy Daniel Roman!
+	<a href="https://github.com/Bouaskaoun" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  
+	</a>
+</h1>
+<br/>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+    <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+</p>
     
 ## Bienvenido a mi Mundo <img src="WhatsApp Image 2026-01-28 at 8 04 01 PM](https://github.com/user-attachments/assets/00a10053-0bc1-4e55-9d5d-58fcd8a4ebb3" width="24px">
 
@@ -9,17 +21,16 @@
 <div align="left">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-jesus-roman-alvarez-2ab10171/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieljesusromanalvarez@gmail.com)
   
 </div>
 
 <br />
-<br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-🛠️ Frontend Development
-#👉 Programming languages
+
+### 👉 Programming Languages
 <p align="left"> 
   &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
